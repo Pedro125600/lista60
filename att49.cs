@@ -7,10 +7,6 @@ namespace list60_2
         static void Main(string[] args)
         {
 
-
-            static void Main(string[] args)
-            {
-
                 double salarioCarlos = 1000;
                 double salarioJoao = salarioCarlos / 3;
                 int meses = 0;
